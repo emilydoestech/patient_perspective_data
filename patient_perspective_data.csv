@@ -1,0 +1,844 @@
+disorder,discovery_group,prerequisite_needed,prerequisite_type,clinical_name,HPO_category,patient_name,probability
+Fabry disease,F,Y,Kidney failure,Renal insufficiency,Genitourinary,Renal insufficiency,0.895
+Fabry disease,P,N,,Hematuria,Kidney failure,Blood in wee,0.25
+Fabry disease,P,N,,Fatigue,Kidney failure,Tiredness,0.25
+Fabry disease,P,N,,Nausea,Kidney failure,Nausea,0.25
+Fabry disease,P,N,,Weight loss,Kidney failure,Weight loss,0.25
+Fabry disease,F,Y,Abnormal renal tubule morphology,Abnormal renal tubule morphology,Genitourinary,Abnormal renal tubule morphology,0.545
+Fabry disease,P,N,,Recurrent urine infections,Abnormal renal tubule morphology,Recurrent urine infections,0.2725
+Fabry disease,P,N,,Poor stream,Abnormal renal tubule morphology,Poor stream,0.2725
+Fabry disease,F,Y,Proteinuria,Proteinuria,Metabolism/Laboratory abnormality,High urine protein levels,0.545
+Fabry disease,S,N,,Swollen eyelids,Proteinuria,Swollen eyelids,1
+Fabry disease,F,Y,Kidney failure,Nephrotic syndrome,Genitourinary,Nephrotic syndrome,0.895
+Fabry disease,F,Y,Kidney failure,Nephropathy,Genitourinary,Kidney damage/Kidney disease,0.545
+Fabry disease,S,N,,Hearing impairment,Hearing impairment,Hearing impairment,0.895
+Fabry disease,F,Y,Hearing impairment,Sensorineural hearing impairment,Ear,Sensorineural hearing impairment,0.17
+Fabry disease,F,Y,Poor Vision,Cataract,Eye,Cataract,0.545
+Fabry disease,S,N,,Conjunctival telangiectasia,Head and neck,Rash in eye,0.895
+Fabry disease,F,Y,Poor Vision,Optic atrophy,Eye,Optic atrophy,0.545
+Fabry disease,P,N,,Vision loss,Poor Vision,Vision loss,0.5
+Fabry disease,P,N,,Blurred vision,Poor Vision,Blurred vision,0.5
+Fabry disease,S,N,,Behavioral abnormality,Nervous,A change in behaviour (reported by others),0.545
+Fabry disease,S,N,,Depression,Nervous,Depressivity,0.17
+Fabry disease,S,N,,Anxiety,Nervous,Anxiety,0.17
+Fabry disease,S,N,,Hematuria,Metabolism/Laboratory abnormality,Blood in urine,0.895
+Fabry disease,F,N,,Hypertension,Cardiovascular,High blood pressure,0.17
+Fabry disease,D,N,,Delayed puberty,Endocrine,Delayed puberty,0.545
+Fabry disease,F,Y,Diabetes insipidus,Diabetes insipidus,Endocrine,Diabetes insipidus,0.17
+Fabry disease,P,N,,Polydipsia,Diabetes insipidus,Thirsty,0.085
+Fabry disease,P,N,,Polyuria,Diabetes insipidus,Weeing a lot,0.085
+Fabry disease,S,N,,Hyperkeratosis,Skin Hair and Nails,Thickened skin,0.895
+Fabry disease,S,N,,Hypohidrosis,Skin Hair and Nails,Lack of sweating,0.895
+Fabry disease,S,N,,Lymphedema,Metabolism/Laboratory abnormality,Persistent swelling in arm/leg,0.17
+Fabry disease,S,N,,Angiokeratoma,Skin Hair and Nails,Small dark-red spot,0.895
+Fabry disease,F,N,Eye Issues,Corneal dystrophy,Eye,Corneal dystrophy,0.895
+Fabry disease,P,N,,Vision loss,Eye Issues,Vision loss,0.25
+Fabry disease,P,N,,Blurred vision,Eye Issues,Blurred vision,0.25
+Fabry disease,P,N,,Irritated eyes,Eye Issues,Irritated eyes,0.25
+Fabry disease,P,N,,Cloudy eyes,Eye Issues,Cloudy eyes,0.25
+Fabry disease,S,N,,Seizure,Nervous,Seizure,0.17
+Fabry disease,S,N,,Arthritis,Skeletal,Arthritis,0.895
+Fabry disease,S,N,,Subcutaneous nodule,Skin Hair and Nails,Lump under skin,0.895
+Fabry disease,F,N,,Congestive heart failure,Cardiovascular,Congestive heart failure,0.895
+Fabry disease,F,Y,Abnormal myocardium morphology,Abnormal myocardium morphology,Cardiovascular,Abnormal myocardium morphology,0.17
+Fabry disease,P,N,,Chest pain,Abnormal myocardium morphology,Chest pain,0.25
+Fabry disease,P,N,,Collapse,Abnormal myocardium morphology,Collapse,0.25
+Fabry disease,P,N,,Palpitations,Abnormal myocardium morphology,Palpitations,0.25
+Fabry disease,P,N,,Heart attack,Abnormal myocardium morphology,Heart attack,0.25
+Fabry disease,F,Y,Cardiovascular,Hypertrophic cardiomyopathy,Cardiovascular,Hypertrophic cardiomyopathy,0.17
+Fabry disease,F,Y,Emergency presentation,Abnormal aortic valve morphology,Cardiovascular,Abnormal aortic valve morphology,0.545
+Fabry disease,F,Y,Cardiovascular,Mitral regurgitation,Cardiovascular,Mitral regurgitation,0.545
+Fabry disease,F,Y,Cardiovascular,Atrioventricular block,Cardiovascular,Atrioventricular block,0.545
+Fabry disease,S,N,,Angina pectoris,Cardiovascular,Chest pain when stressed or exercising,0.17
+Fabry disease,F,Y,Cardiovascular,Left ventricular hypertrophy,Cardiovascular,Left ventricular hypertrophy,0.17
+Fabry disease,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.895
+Fabry disease,P,N,,Fatigue,Anemia,Tiredness,0.5
+Fabry disease,P,N,,Pale,Anemia,Pale,0.5
+Fabry disease,P,N,,Fever,Anemia,Fever,0.17
+Fabry disease,S,N,,Nausea and vomiting,Digestive,Nausea and vomiting,0.545
+Fabry disease,F,Y,Malabsorption,Malabsorption,Digestive,Malabsorption,0.895
+Fabry disease,P,N,,Diarrhoea,Malabsorption,Diarrhoea,0.333333333
+Fabry disease,P,N,,Weight loss,Malabsorption,Weight loss,0.333333333
+Fabry disease,P,N,,Smelly stools,Malabsorption,Smelly stools,0.333333333
+Fabry disease,S,N,,Abdominal pain,Constitutional Symptom,Abdominal pain,0.895
+Fabry disease,S,N,,Anorexia,Digestive,Poor appetitie and weight loss,0.545
+Fabry disease,S,N,,Respiratory insufficiency,Respiratory,Shortness of breath,0.17
+Fabry disease,S,N,,Dyspnea,Respiratory,Breathing difficulties,0.17
+Fabry disease,F,Y,Emphysema,Emphysema,Respiratory,Emphysema,0.545
+Fabry disease,P,N,,Shortness of breath,Emphysema,Shortness of breath,0.5
+Fabry disease,P,N,,Recurent chest infections,Emphysema,Recurent chest infections,0.5
+Fabry disease,S,N,,Vertigo,Ear,Vertigo,0.17
+Fabry disease,S,N,,Transient ischemic attack,Nervous,Mini-stroke,0.895
+Fabry disease,S,N,,Developmental regression,Nervous,Developmental regression,0.17
+Fabry disease,S,N,Digestive,Achalasia,Digestive,Difficulty swallowing,0.17
+Fabry disease,S,N,,Abnormality of femur morphology,Skeletal,Easy fractures,0.17
+Fabry disease,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.895
+Fabry disease,R,N,,Hyperlipidemia,Metabolism/Laboratory abnormality,High cholesteral,0.545
+Fabry disease,F,N,,Abnormal circulating lipid concentration,Metabolism/Laboratory abnormality,Elevated or lowered cholesteral,0.545
+Fabry disease,S,N,,Myalgia,Constitutional Symptom,Muscle pain,0.895
+Fabry disease,F,Y,Emergency presentation,Abnormality of the endocardium,Cardiovascular,Abnormality of the endocardium,0.17
+Fabry disease,D,N,,Short stature,Growth,Short stature,0.545
+Fabry disease,F,N,,Reduced bone mineral density,Skeletal,Recurrent fractures,0.17
+Fabry disease,S,N,,Chronic obstructive pulmonary disease,Respiratory,Shortness of breath long term ,0.17
+Fabry disease,S,N,Eye Issues,Corneal opacity,Eye,Corneal opacity,0.895
+Fabry disease,S,N,,Arrhythmia,Cardiovascular,Arrhythmia,0.17
+Fabry disease,F,Y,Cardiovascular,Bundle branch block,Cardiovascular,Bundle branch block,0.545
+Fabry disease,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.895
+Fabry disease,S,N,,Cognitive impairment,Nervous,Not thinking as clear as I used to,0.545
+Fabry disease,S,N,,Mucosal telangiectasiae,Cardiovascular,Spider veins inside the mouth,0.4475
+Fabry disease,S,N,,Mucosal telangiectasiae,Cardiovascular,Spider veins inside the inner nose,0.4475
+Fabry disease,S,N,,Telangiectasia of the skin,Cardiovascular,Spider veins,0.895
+Fabry disease,F,Y,Kidney failure,Glomerulopathy,Genitourinary,Glomerulopathy (diseased blood vessels in the kidneys),0.17
+Fabry disease,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Fabry disease,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Fabry disease,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Fabry disease,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Fabry disease,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Fabry disease,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Fabry disease,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Rheumatic fever,F,Y,Kidney failure,Nephrotic syndrome,Genitourinary,Nephrotic syndrome,0.17
+Rheumatic fever,P,N,,Hematuria,Kidney failure,Blood in wee,0.25
+Rheumatic fever,P,N,,Fatigue,Kidney failure,Tiredness,0.25
+Rheumatic fever,P,N,,Nausea,Kidney failure,Nausea,0.25
+Rheumatic fever,P,N,,Weight loss,Kidney failure,Weight loss,0.25
+Rheumatic fever,F,N,,Sinusitis,Head and neck,Sinusitis,0.545
+Rheumatic fever,S,N,,Epistaxis,Head and neck,Frequent nosebleeds,0.17
+Rheumatic fever,S,N,,Behavioral abnormality,Nervous,A change in behaviour (reported by others),0.17
+Rheumatic fever,S,N,,Pallor,Skin Hair and Nails,Pale skin,0.545
+Rheumatic fever,S,N,,Gait disturbance,Nervous,Difficulty walking,0.17
+Rheumatic fever,S,N,,Arthritis,Skeletal,Arthritis,0.895
+Rheumatic fever,S,N,,Subcutaneous nodule,Skin Hair and Nails,Lump under skin,0.895
+Rheumatic fever,F,Y,Cardiovascular,Abnormal mitral valve morphology,Cardiovascular,Abnormal mitral valve morphology,0.545
+Rheumatic fever,F,Y,Emergency presentation,Abnormal aortic valve morphology,Cardiovascular,Abnormal aortic valve morphology,0.545
+Rheumatic fever,F,Y,Emergency presentation,Abnormal heart valve morphology,Cardiovascular,Abnormal heart valve morphology,0.17
+Rheumatic fever,F,Y,Cardiovascular,Pericarditis,Cardiovascular,Swelling or irritation of membrane around heart,0.17
+Rheumatic fever,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.545
+Rheumatic fever,S,N,,Nausea and vomiting,Digestive,Nausea and vomiting,0.895
+Rheumatic fever,S,N,,Constipation,Digestive,Constipation,0.17
+Rheumatic fever,S,N,,Abdominal pain,Constitutional Symptom,Abdominal pain,0.545
+Rheumatic fever,S,N,,Anorexia,Digestive,Poor appetitie and weight loss,0.895
+Rheumatic fever,F,Y,Chorea,Chorea,Nervous,Chorea,0.545
+Rheumatic fever,P,N,,Chorea,Chorea,Involuntary unpredictable body movements,1
+Rheumatic fever,S,N,,Migraine,Nervous,Headaches,0.17
+Rheumatic fever,S,N,,Respiratory insufficiency,Respiratory,Shortness of breath,0.17
+Rheumatic fever,F,Y,Respiratory,Abnormality of the pleura,Respiratory,Abnormality of the pleura,0.17
+Rheumatic fever,S,N,,Neurological speech impairment,Nervous,Speech impediment,0.17
+Rheumatic fever,S,N,,Fasciculations,Nervous,Muscle twitch visible under the skin,0.17
+Rheumatic fever,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.545
+Rheumatic fever,F,N,Aplasia/Hypoplasia of the abdominal wall musculature,Aplasia/Hypoplasia of the abdominal wall musculature,Digestive,Absent/small abdominal wall muscles,0.17
+Rheumatic fever,P,N,,Prominent belly ,Aplasia/Hypoplasia of the abdominal wall musculature,Prominent belly ,0.5
+Rheumatic fever,P,N,,Hernia,Aplasia/Hypoplasia of the abdominal wall musculature,Hernia,0.5
+Rheumatic fever,F,N,,Dyslexia,Nervous,Dyslexia,0.17
+Rheumatic fever,F,N,,Dysgraphia,Nervous,Dysgraphia,0.17
+Rheumatic fever,S,N,,Erythema,Cardiovascular,Rash,0.17
+Rheumatic fever,S,N,,Arrhythmia,Cardiovascular,Arrhythmia,0.545
+Rheumatic fever,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Rheumatic fever,S,N,,Macule,Skin Hair and Nails,Dark brown spot,0.895
+Rheumatic fever,F,Y,Cardiovascular,Myocarditis,Cardiovascular,Myocarditis (inflamation of heart muscle),0.545
+Rheumatic fever,F,Y,Nervous,Hemiballismus,Nervous,Hemiballismus,0.17
+Rheumatic fever,F,Y,Cardiovascular,Endocarditis,Cardiovascular,Endocarditis (inflamation of the inner layer of the heart),0.545
+Rheumatic fever,S,N,,Chest pain,Cardiovascular,Chest pain,0.545
+Rheumatic fever,S,Y,,Recurrent pharyngitis,Head and neck,Recurrent sore throat,0.545
+Rheumatic fever,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Rheumatic fever,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Rheumatic fever,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Rheumatic fever,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Rheumatic fever,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Rheumatic fever,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Rheumatic fever,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Gaucher disease,F,Y,Proteinuria,Proteinuria,Metabolism/Laboratory abnormality,High urine protein levels,0.17
+Gaucher disease,P,N,,Swollen eyelids,Proteinuria,Swollen eyelids,1
+Gaucher disease,S,N,,Gingival bleeding,Blood and blood-forming tissues,Bleeding gums,0.17
+Gaucher disease,F,Y,Hydrocephalus,Hydrocephalus,Nervous,Hydrocephalus (too much cerebrospinal fluid in the brain),0.17
+Gaucher disease,P,N,,Headache,Hydrocephalus,Headache,0.333333333
+Gaucher disease,P,N,,Blurry vision,Hydrocephalus,Blurry vision,0.333333333
+Gaucher disease,P,N,,Lethargy,Hydrocephalus,Lethargy,0.333333333
+Gaucher disease,S,N,,Hearing impairment,Ear,Hearing impairment,0.17
+Gaucher disease,D,N,,Strabismus,Cranial nerve paralysis,Squint,0.545
+Gaucher disease,F,Y,Poor Vision,Retinopathy,Eye,Retinopathy,0.17
+Gaucher disease,P,N,,Vision loss,Poor Vision,Vision loss,0.5
+Gaucher disease,P,N,,Blurred vision,Poor Vision,Blurred vision,0.5
+Gaucher disease,S,N,,Oculomotor apraxia,Nervous,Difficulty with horizontal voluntary eye movements,0.17
+Gaucher disease,S,N,,Depressivity,Nervous,Depressivity,0.545
+Gaucher disease,S,N,,Hematuria,Metabolism/Laboratory abnormality,Blood in urine,0.17
+Gaucher disease,D,N,,Delayed puberty,Endocrine,Delayed puberty,0.545
+Gaucher disease,F,Y,Abnormality of the skeletal system,Abnormality of the skeletal system,Skeletal,Abnormality of the skeletal system,0.545
+Gaucher disease,P,N,,Dysmorphic,Abnormality of the skeletal system,Self conscious of body,0.5
+Gaucher disease,P,N,,Easy fractures,Abnormality of the skeletal system,Easy fractures,0.5
+Gaucher disease,F,Y,Skeletal,Osteopenia,Skeletal,Osteopenia: Decreased bone density,0.545
+Gaucher disease,S,N,,Abnormality of skin pigmentation,Skin Hair and Nails,Funny rash and hair faling out,0.17
+Gaucher disease,S,N,Eye,Abnormal macular morphology,Eye,"Chronic, sudden eyesight problems",0.17
+Gaucher disease,F,Y,Nervous,Ataxia,Nervous,Wide walking gait,0.545
+Gaucher disease,S,N,,Hypotonia,Musculature,Weakness,0.17
+Gaucher disease,S,N,,Tremor,Nervous,Tremor,0.17
+Gaucher disease,S,N,,Joint dislocation,Skeletal,Joints pop out easily ,0.545
+Gaucher disease,S,N,,Joint stiffness,Skeletal,Joint stiffness,0.17
+Gaucher disease,F,Y,Cirrhosis,Cirrhosis,Digestive,Cirrhosis,0.17
+Gaucher disease,P,N,,Weight gain,Cirrhosis,Weight gain,0.2
+Gaucher disease,P,N,,Jaundice,Cirrhosis,Jaundice,0.2
+Gaucher disease,P,N,,Prominenet blood vessels,Cirrhosis,Prominenet blood vessels,0.2
+Gaucher disease,P,N,,Easy bruising,Cirrhosis,Easy bruising,0.2
+Gaucher disease,P,N,,Abdominal pain,Cirrhosis,Abdominal pain,0.2
+Gaucher disease,R,N,,Death in infancy,Clinical course,R,0.17
+Gaucher disease,F,Y,Abnormal myocardium morphology,Abnormal myocardium morphology,Cardiovascular,Abnormal myocardium morphology,0.17
+Gaucher disease,P,N,,Chest pain,Abnormal myocardium morphology,Chest pain,0.25
+Gaucher disease,P,N,,Collapse,Abnormal myocardium morphology,Collapse,0.25
+Gaucher disease,P,N,,Palpitations,Abnormal myocardium morphology,Palpitations,0.25
+Gaucher disease,P,N,,Heart attack,Abnormal myocardium morphology,Heart attack,0.25
+Gaucher disease,F,Y,Emergency presentation,Abnormal heart valve morphology,Cardiovascular,Abnormal heart valve morphology,0.17
+Gaucher disease,F,Y,Abnormal pericardium morphology,Abnormal pericardium morphology,Cardiovascular,Abnormal pericardium morphology,0.17
+Gaucher disease,P,N,,Chest pain,Abnormal pericardium morphology,Chest pain,0.2
+Gaucher disease,P,N,,Collapse,Abnormal pericardium morphology,Collapse,0.2
+Gaucher disease,P,N,,Palpitations,Abnormal pericardium morphology,Palpitations,0.2
+Gaucher disease,P,N,,Heart attack,Abnormal pericardium morphology,Heart attack,0.2
+Gaucher disease,P,N,,Fever,Abnormal pericardium morphology,Fever,0.2
+Gaucher disease,F,N,,Splenomegaly,Digestive,Englarged spleen,0.895
+Gaucher disease,D,N,,Hydrops fetalis,Prenatal and Birth,Hydrops fetalis: prenatal swelling,0.17
+Gaucher disease,F,Y,Thrombocytopenia,Thrombocytopenia,Blood and blood-forming tissues,Low platelet count,0.545
+Gaucher disease,P,N,,Easy bruising and bleeding,Thrombocytopenia,Easy bruising and bleeding,1
+Gaucher disease,F,Y,Pancytopenia,Pancytopenia,Blood and blood-forming tissues,Low blood cell count,0.17
+Gaucher disease,P,N,,Easy bruising,Pancytopenia,Easy bruising,0.25
+Gaucher disease,P,N,,Recurrent infections,Pancytopenia,Recurrent infections,0.25
+Gaucher disease,P,N,,Lethargy,Pancytopenia,Lethargy,0.25
+Gaucher disease,P,N,,Pale,Pancytopenia,Pale,0.25
+Gaucher disease,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Easy bruising,0.085
+Gaucher disease,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Prolonged bleeding,0.085
+Gaucher disease,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.895
+Gaucher disease,P,N,,Tiredness,Anemia,Tiredness,0.5
+Gaucher disease,P,N,,Pale,Anemia,Pale,0.5
+Gaucher disease,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.545
+Gaucher disease,S,N,,Dysphagia,Digestive,Difficulty swallowing,0.545
+Gaucher disease,S,N,,Abdominal pain,Constitutional Symptom,Abdominal pain,0.545
+Gaucher disease,S,N,,Bilateral tonic-clonic seizure,Nervous,Massive seizure,0.545
+Gaucher disease,S,N,,Abnormality of extrapyramidal motor function,Nervous,Tics,0.0425
+Gaucher disease,S,N,,Abnormality of extrapyramidal motor function,Nervous,Slow movements,0.0425
+Gaucher disease,S,N,,Abnormality of extrapyramidal motor function,Nervous,Irregular chewing movements,0.0425
+Gaucher disease,S,N,,Abnormality of extrapyramidal motor function,Nervous,Sudden stiffness,0.0425
+Gaucher disease,F,Y,Respiratory,Pulmonary arterial hypertension,Respiratory,High blood pressure in lungs,0.17
+Gaucher disease,P,N,,Pulmonary arterial hypertension,Respiratory,Blue all over,0.17
+Gaucher disease,S,N,,Respiratory insufficiency,Respiratory,Shortness of breath,0.17
+Gaucher disease,F,Y,Ventriculomegaly,Ventriculomegaly,Nervous,Enlarged ventricular system of the brain,0.17
+Gaucher disease,P,N,,Headache,Ventriculomegaly,Headache,0.25
+Gaucher disease,P,N,,Blurry vision,Ventriculomegaly,Blurry vision,0.25
+Gaucher disease,P,N,,Seizure,Ventriculomegaly,Seizure,0.25
+Gaucher disease,P,N,,Cognitive delay,Ventriculomegaly,Cognitive delay,0.25
+Gaucher disease,F,N,,Generalized myoclonic seizures,Nervous,Massive seizures,0.545
+Gaucher disease,F,Y,Respiratory,Pulmonary fibrosis,Respiratory,Replacement of normal lung tissues by fibroblasts and collagen,0.17
+Gaucher disease,F,Y,Hepatomegaly,Hepatomegaly,Digestive,Enlarged liver,0.895
+Gaucher disease,S,N,,Adbominal pain,Hepatomegaly,Adbominal pain,0.5
+Gaucher disease,S,N,,Adbominal pain,Hepatomegaly,Jaundice,0.5
+Gaucher disease,S,N,,Developmental regression,Nervous,Developmental regression,0.545
+Gaucher disease,S,N,,Bone pain,Skeletal,Bone pain,0.545
+Gaucher disease,D,N,,Delayed skeletal maturation,Skeletal,Delayed skeletal maturation,0.545
+Gaucher disease,F,Y,Skeletal,Osteomyelitis,Skeletal,Fever and bone pain,0.17
+Gaucher disease,S,N,,Recurrent fractures,Skeletal,Recurrent fractures,0.545
+Gaucher disease,S,N,,Osteoarthritis,Skeletal,Osteoarthritis,0.17
+Gaucher disease,F,Y,Easy fractures,Osteolysis,Skeletal,Osteolysis: Breakdown of bone,0.17
+Gaucher disease,P,N,,Easy fractures,Easy fractures,Easy fractures,0.17
+Gaucher disease,D,N,,Arthrogryposis multiplex congenita,Musculature,Arthrogryposis multiplex congenita (bent joints that cannot be straightened),0.17
+Gaucher disease,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.545
+Gaucher disease,D,N,,Short stature,Growth,Short stature,0.17
+Gaucher disease,S,N,,Hemiplegia/hemiparesis,Nervous,Paralysis or weakness of one side of the body,0.17
+Gaucher disease,F,Y,Emergency presentation,Aortic valve calcification,Skeletal,Calcium deposits in the aortic valve,0.17
+Gaucher disease,F,Y,Cardiovascular,Mitral valve calcification,Skeletal,Calcium deposits in the mitral valve,0.17
+Gaucher disease,F,Y,Respiratory,Interstitial pulmonary abnormality,Respiratory,Interstitial pulmonary abnormality,0.17
+Gaucher disease,F,Y,Eye,Cranial nerve paralysis,Nervous,Cranial nerve paralysis,0.17
+Gaucher disease,P,N,,Limited eye movements,Cranial nerve paralysis,Limited eye movements,0.5
+Gaucher disease,P,N,,Diplopia,Cranial nerve paralysis,Double vision,0.5
+Gaucher disease,S,N,Eye Issues,Corneal opacity,Eye,Corneal opacity,0.17
+Gaucher disease,P,N,,Vision loss,Eye Issues,Vision loss,0.25
+Gaucher disease,P,N,,Blurred vision,Eye Issues,Blurred vision,0.25
+Gaucher disease,P,N,,Irritated eyes,Eye Issues,Irritated eyes,0.25
+Gaucher disease,P,N,,Cloudy eyes,Eye Issues,Cloudy eyes,0.25
+Gaucher disease,S,N,,Ichthyosis,Skin Hair and Nails,Dry scales on the skin,0.17
+Gaucher disease,D,N,,Feeding difficulties in infancy,Digestive,Feeding difficulties in infancy,0.545
+Gaucher disease,F,N,,Increased antibody level in blood,Cellular phenotype,Increased antibody level in blood,0.17
+Gaucher disease,F,Y,Poor Vision,Cherry red spot of the macula,Eye,Cherry red spot of the macula,0.17
+Gaucher disease,S,N,,Avascular necrosis,Skeletal,Tender bony pain,0.545
+Gaucher disease,F,N,,Increased bone mineral density,Skeletal,Increased bone mineral density,0.17
+Gaucher disease,F,N,,Elevated C-reactive protein level,Metabolism/Laboratory abnormality,Elevated C-reactive protein level,0.17
+Gaucher disease,F,Y,Hepatomegaly,Hepatitis,Digestive,Hepatitis,0.17
+Gaucher disease,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.895
+Gaucher disease,S,N,,Abnormality of movement,Nervous,Falling,0.545
+Gaucher disease,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Gaucher disease,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Gaucher disease,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Gaucher disease,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Gaucher disease,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Gaucher disease,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Gaucher disease,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Dermatomyositis,S,N,,Abnormal eyelid morphology,Head and neck,Abnormal eyelids,0.895
+Dermatomyositis,F,Y,Skeletal,Chondrocalcinosis,Connective tissue,Chondrocalcinosis,0.545
+Dermatomyositis,S,N,,Dry skin,Skin Hair and Nails,Dry skin,0.545
+Dermatomyositis,S,N,,Edema,Metabolism/Laboratory abnormality,Swelling,0.895
+Dermatomyositis,S,N,,Pruritus,Skin Hair and Nails,Itchy skin,0.545
+Dermatomyositis,S,N,,Cutaneous photosensitivity,Skin Hair and Nails,Skin rashes due to light exposure,0.17
+Dermatomyositis,S,N,,Acrocyanosis,Skin Hair and Nails,Persistent blue hands/feet,0.545
+Dermatomyositis,S,N,,Hypotonia,Musculature,Weakness,0.545
+Dermatomyositis,S,N,,Arthritis,Skeletal,Arthritis,0.545
+Dermatomyositis,S,N,,Abnormality of the nail,Skin Hair and Nails,Nail disease,0.545
+Dermatomyositis,R,N,,Abnormality of the voice,Voice,Abnormality of the voice,0.17
+Dermatomyositis,S,N,,Dysphonia,Voice,Impaired ability to produce voice sounds,0.17
+Dermatomyositis,F,N,,Myocardial infarction,Cardiovascular,Heart attack,0.17
+Dermatomyositis,F,Y,Cardiovascular,Pericarditis,Cardiovascular,Swelling or irritation of membrane around heart,0.17
+Dermatomyositis,S,N,,Weight loss,Growth,Weight loss,0.545
+Dermatomyositis,F,Y,Immunology,Abnormality of eosinophils,Immunology,Abnormality of eosinophils,0.17
+Dermatomyositis,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.17
+Dermatomyositis,F,Y,Respiratory,Pulmonary arterial hypertension,Cardiovascular,High blood pressure in lungs,0.17
+Dermatomyositis,P,N,,Pulmonary arterial hypertension,Respiratory,Blue all over,1
+Dermatomyositis,S,N,,Respiratory insufficiency,Respiratory,Shortness of breath,0.545
+Dermatomyositis,S,N,,Recurrent respiratory infections,Immunology,Recurrent respiratory infections,0.545
+Dermatomyositis,F,Y,Respiratory,Pulmonary fibrosis,Respiratory,Pulmonary fibrosis,0.545
+Dermatomyositis,F,Y,Respiratory,Diffuse reticular or finely nodular infiltrations,Diffuse reticular or finely nodular infiltrations,Scan of lungs revealed substance in the lungs (net-like lines covering a wide area or small lumps),0.545
+Dermatomyositis,F,Y,,Vasculitis,Cardiovascular,Vasculitis,0.17
+Dermatomyositis,F,N,,Neoplasm,Neoplasm,Tumour,0.17
+Dermatomyositis,F,N,,Lymphoma,Neoplasm,Lymphoma,0.17
+Dermatomyositis,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.545
+Dermatomyositis,F,Y,,Autoimmunity,Immunology,Autoimmunity,0.895
+Dermatomyositis,F,Y,,Breast carcinoma,Neoplasm,Breast cancer,0.17
+Dermatomyositis,S,N,,Myalgia,Constitutional Symptom,Muscle pain,0.895
+Dermatomyositis,F,Y,Musculature,EMG abnormality,Musculature,Abnormal electromyogram,0.895
+Dermatomyositis,S,N,,Proximal muscle weakness,Musculature,Weakness in muscles of upper arms and upper legs,0.895
+Dermatomyositis,F,Y,Respiratory,Interstitial pulmonary abnormality,Respiratory,Abnormality in area between air sacs in lung,0.545
+Dermatomyositis,D,N,,Aplasia/Hypoplasia of the skin,Skin Hair and Nails,Absent/underdeveloped skin,0.17
+Dermatomyositis,D,N,,Feeding difficulties in infancy,Digestive,Feeding difficulties in infancy,0.17
+Dermatomyositis,S,N,,Inflammatory myopathy,Musculature,Chronic muscle inflammation and weakness,0.895
+Dermatomyositis,S,N,,Erythema,Cardiovascular,Rash,0.895
+Dermatomyositis,S,N,,Abnormal hair quantity,Skin Hair and Nails,An abnormal amount of hair,0.545
+Dermatomyositis,S,N,,Arrhythmia,Cardiovascular,Arrhythmia,0.17
+Dermatomyositis,S,N,,Sinus tachycardia,Cardiovascular,Fast heartbeat (over 100 bpm),0.17
+Dermatomyositis,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Dermatomyositis,F,Y,Cardiovascular,Myocarditis,Cardiovascular,Myocarditis (inflamation of heart muscle),0.17
+Dermatomyositis,F,Y,Respiratory,Lung adenocarcinoma,Neoplasm,Lung Cancer (adenocarcinoma),0.17
+Dermatomyositis,S,N,,Periorbital edema,Metabolism/Laboratory abnormality,Swelling around the eye,0.895
+Dermatomyositis,S,N,,Telangiectasia of the skin,Cardiovascular,Spider veins,0.17
+Dermatomyositis,S,N,,Cellulitis,Connective tissue,Skin infection,0.17
+Dermatomyositis,F,Y,Digestive,Gastrointestinal stroma tumor,Neoplasm,Gastrointestinal stroma tumour,0.17
+Dermatomyositis,S,N,,Gangrene,Constitutional Symptom,Gangrene,0.17
+Dermatomyositis,S,N,,Papule,Skin Hair and Nails,Papule,0.545
+Dermatomyositis,S,N,,Skin ulcer,Skin Hair and Nails,Skin ulcer,0.545
+Dermatomyositis,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Dermatomyositis,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Dermatomyositis,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Hypermobile Ehlers-Danlos syndrome,S,N,,Inguinal hernia,Digestive,Lump down below,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Abnormality of the menstrual cycle,Genitourinary,Menstrual abnormalities (frequency heaviness or irregularity),0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Decreased fertility,Genitourinary,Decreased fertility,0.17
+Hypermobile Ehlers-Danlos syndrome,F,Y,Abnormality of the dentition,Abnormality of the dentition,Head and neck,Dental abnormalities,0.17
+Hypermobile Ehlers-Danlos syndrome,P,N,,Abnormality of the dentition,Abnormality of the dentition,Pain and problems chewing,0.5
+Hypermobile Ehlers-Danlos syndrome,P,N,,Abnormality of the dentition,Abnormality of the dentition,Self conscious of teeth,0.5
+Hypermobile Ehlers-Danlos syndrome,D,N,,Abnormality of the gingiva,Head and neck,Overgrown gum,0.17
+Hypermobile Ehlers-Danlos syndrome,D,N,,Abnormal palate morphology,Head and neck,Swallowing issues coughing and drooling,0.17
+Hypermobile Ehlers-Danlos syndrome,D,N,,Gingival overgrowth,Head and neck,Gum enlargement,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Gingivitis,Head and neck,Inflamed gums,0.17
+Hypermobile Ehlers-Danlos syndrome,D,N,,Epicanthus,Head and neck,Prominent eye folds,0.17
+Hypermobile Ehlers-Danlos syndrome,D,N,,Ptosis,Eye,Drooping upper eyelid,0.17
+Hypermobile Ehlers-Danlos syndrome,F,Y,Keratoconus,Keratoconus,Eye,Keratoconus,0.17
+Hypermobile Ehlers-Danlos syndrome,P,N,,Vision loss,Keratoconus,Vision loss,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Blurred vision,Keratoconus,Blurred vision,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Bulgy eyes,Keratoconus,Bulgy eyes,0.333333333
+Hypermobile Ehlers-Danlos syndrome,D,N,,Microdontia,Head and neck,Small teeth,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Depressivity,Nervous,Depressivity,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Decreased nerve conduction velocity,Nervous,Slow movements,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Thin skin,Skin Hair and Nails,Thin skin,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Hyperextensible skin,Skin Hair and Nails,Stretchy skin,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Soft skin,Skin Hair and Nails,Soft skin,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Atypical scarring of skin,Skin Hair and Nails,Unusual scars,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Acrocyanosis,Skin Hair and Nails,Persistent blue hands/feet,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Keratoconjunctivitis sicca,Head and neck,Dry eyes,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Joint dislocation,Skeletal,Joint dislocation,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Limitation of joint mobility,Skeletal,Limitation of joint mobility,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Subcutaneous nodule,Skin Hair and Nails,Lump under skin,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Umbilical hernia,Digestive,Lump at belly button,0.17
+Hypermobile Ehlers-Danlos syndrome,F,Y,Abnormality of the foot,Abnormality of the foot,Limbs,Foot deformity,0.895
+Hypermobile Ehlers-Danlos syndrome,P,N,,Short stature,Abnormality of the foot,Short stature,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Foot pain,Abnormality of the foot,Foot pain,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Abnormal gait,Abnormality of the foot,Abnormal gait,0.333333333
+Hypermobile Ehlers-Danlos syndrome,D,N,,Pes planus,Limbs,Flat feet,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Nausea and vomiting,Digestive,Nausea and vomiting,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Constipation,Digestive,Constipation,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Gastroesophageal reflux,Digestive,Heartburn,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,Malabsorption,Malabsorption,Digestive,Malabsorption,0.545
+Hypermobile Ehlers-Danlos syndrome,P,N,,Diarrhoea,Malabsorption,Diarrhoea,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Weight loss,Malabsorption,Weight loss,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Smelly stools,Malabsorption,Smelly stools,0.333333333
+Hypermobile Ehlers-Danlos syndrome,S,N,,Migraine,Nervous,Headaches,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Apnea,Respiratory,Stop breathing and turn pale/collapse,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Vertigo,Ear,Vertigo,0.895
+Hypermobile Ehlers-Danlos syndrome,D,N,,Sleep disturbance,Nervous,Sleep disturbance,0.895
+Hypermobile Ehlers-Danlos syndrome,F,Y,Gastrointestinal dysmotility,Gastrointestinal dysmotility,Digestive,Gastrointestinal dysmotility,0.17
+Hypermobile Ehlers-Danlos syndrome,P,N,,Abdominal pain,Gastrointestinal dysmotility,Abdominal pain,0.166666667
+Hypermobile Ehlers-Danlos syndrome,P,N,,Constitpation,Gastrointestinal dysmotility,Constitpation,0.166666667
+Hypermobile Ehlers-Danlos syndrome,P,N,,Diarrhorea,Gastrointestinal dysmotility,Diarrhorea,0.166666667
+Hypermobile Ehlers-Danlos syndrome,P,N,,Flatus,Gastrointestinal dysmotility,Flatus,0.166666667
+Hypermobile Ehlers-Danlos syndrome,P,N,,Irregular bowel movements,Gastrointestinal dysmotility,Irregular bowel movements,0.166666667
+Hypermobile Ehlers-Danlos syndrome,P,N,,Urgency,Gastrointestinal dysmotility,Sudden need to have a bowel movement,0.166666667
+Hypermobile Ehlers-Danlos syndrome,F,N,,Wormian bones,Skeletal,Extra bones in the cranium,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Scoliosis,Skeletal,Spine always bent to one side,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Osteoarthritis,Skeletal,Osteoarthritis,0.545
+Hypermobile Ehlers-Danlos syndrome,F,Y,Easy fractures,Osteolysis,Skeletal,Osteolysis: Breakdown of bone,0.17
+Hypermobile Ehlers-Danlos syndrome,P,N,,Easy fractures,Easy fractures,Easy fractures,1
+Hypermobile Ehlers-Danlos syndrome,S,N,,Hip dislocation,Skeletal,Hip dislocation,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Arthralgia,Skeletal,Joint pain,0.895
+Hypermobile Ehlers-Danlos syndrome,D,N,,Abnormality of the wrist,Skeletal,Abnormality of the wrist,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Elbow dislocation,Skeletal,Elbow dislocation,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Myalgia,Constitutional Symptom,Muscle pain,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Paresthesia,Nervous,Tingling/pins and needles,0.17
+Hypermobile Ehlers-Danlos syndrome,F,N,,Dilatation of the ascending aorta,Cardiovascular,Sudden artery burst ,0.17
+Hypermobile Ehlers-Danlos syndrome,F,Y,Cardiovascular,Venous insufficiency,Cardiovascular,Lumpy prominent veins,0.17
+Hypermobile Ehlers-Danlos syndrome,F,Y,Cardiovascular,Arterial dissection,Cardiovascular,Sudden severe chest pain,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Joint hyperflexibility,Skeletal,Joint hyperflexibility,0.895
+Hypermobile Ehlers-Danlos syndrome,F,Y,Aplasia/Hypoplasia of the abdominal wall musculature,Aplasia/Hypoplasia of the abdominal wall musculature,Digestive,Absent/small abdominal wall muscles,0.17
+Hypermobile Ehlers-Danlos syndrome,P,N,,Aplasia/Hypoplasia of the abdominal wall musculature,Aplasia/Hypoplasia of the abdominal wall musculature,Prominent belly ,0.085
+Hypermobile Ehlers-Danlos syndrome,P,N,,Aplasia/Hypoplasia of the abdominal wall musculature,Aplasia/Hypoplasia of the abdominal wall musculature,Hernia,0.085
+Hypermobile Ehlers-Danlos syndrome,S,N,,Arrhythmia,Cardiovascular,Arrhythmia,0.545
+Hypermobile Ehlers-Danlos syndrome,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.895
+Hypermobile Ehlers-Danlos syndrome,S,N,,Anorectal anomaly,Digestive,Anus not present,0.056666667
+Hypermobile Ehlers-Danlos syndrome,S,N,,Anorectal anomaly,Digestive,Extra hole in anus,0.056666667
+Hypermobile Ehlers-Danlos syndrome,S,N,,Anorectal anomaly,Digestive,Abnormal discharge from anus,0.056666667
+Hypermobile Ehlers-Danlos syndrome,S,N,,Tendon rupture,Skeletal,Bad sprain ,0.17
+Hypermobile Ehlers-Danlos syndrome,S,N,,Cystocele,Genitourinary,Lump down below,0.34
+Hypermobile Ehlers-Danlos syndrome,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Hypermobile Ehlers-Danlos syndrome,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Hypermobile Ehlers-Danlos syndrome,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Hypermobile Ehlers-Danlos syndrome,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Hypermobile Ehlers-Danlos syndrome,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Vascular Ehlers-Danlos syndrome,F,Y,Genitourinary,Bladder diverticulum,Genitourinary,Bladder diverticulum,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Inguinal hernia,Digestive,Lump down below,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Cryptorchidism,Genitourinary,Undescended testes,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Hypospadias,Genitourinary,Displaced urethra opening,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Uterine prolapse,Genitourinary,Sagging uterus,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Abnormality of the dentition,Head and neck,Dental abnormalities,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Abnormality of the gingiva,Head and neck,Overgrown gum,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Gingival overgrowth,Head and neck,Gum enlargement,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Gingivitis,Head and neck,Inflamed gums,0.17
+Vascular Ehlers-Danlos syndrome,R,N,,Abnormality of the face,Head and neck,Abnormality of the face,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Epicanthus,Head and neck,Prominent eye folds,0.895
+Vascular Ehlers-Danlos syndrome,F,N,,Glaucoma,Eye,Glaucoma,0.545
+Vascular Ehlers-Danlos syndrome,D,N,,Ptosis,Eye,Drooping upper eyelid,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Keratoconus,Keratoconus,Eye,Keratoconus,0.17
+Vascular Ehlers-Danlos syndrome,P,N,,Vision loss,Keratoconus,Vision loss,0.333333333
+Vascular Ehlers-Danlos syndrome,P,N,,Blurred vision,Keratoconus,Blurred vision,0.333333333
+Vascular Ehlers-Danlos syndrome,P,N,,Bulgy eyes,Keratoconus,Bulgy eyes,0.333333333
+Vascular Ehlers-Danlos syndrome,S,N,,Carious teeth,Head and neck,Tooth decay,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Microdontia,Head and neck,Small teeth,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Periodontitis,Immunology,Gum disease,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Pectus excavatum,Skeletal,Funnel chest,0.895
+Vascular Ehlers-Danlos syndrome,F,N,,Hypertension,Cardiovascular,High blood pressure,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Sprengel anomaly,Skeletal,One shoulder blade higher than the other,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Abnormality of the skin,Skin Hair and Nails,Abnormal skin,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Thin skin,Skin Hair and Nails,Thin skin,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Bruising susceptibility,Cardiovascular,Bruising susceptibility,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Melanocytic nevus,Skin Hair and Nails,Mole,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Abnormality of skin pigmentation,Skin Hair and Nails,Funny rash and hair faling out,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Global developmental delay,Nervous,Delayed development,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Joint dislocation,Skeletal,Joint dislocation,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Congenital hip dislocation,Limbs,Dislocated hip since birth,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Subcutaneous nodule,Skin Hair and Nails,Lump under skin,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Umbilical hernia,Digestive,Lump at belly button,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Redundant skin,Skin Hair and Nails,Skin folds,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Alopecia,Skin Hair and Nails,Hair loss,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Premature birth,Prenatal and Birth,Premature birth,0.545
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Mitral valve prolapse,Cardiovascular,Mitral valve prolapse,0.895
+Vascular Ehlers-Danlos syndrome,F,Y,Emergency presentation,Abnormal heart valve morphology,Cardiovascular,Abnormal heart valve morphology,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Talipes equinovarus,Limbs,Club feet,0.545
+Vascular Ehlers-Danlos syndrome,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Easy bruising,0.4475
+Vascular Ehlers-Danlos syndrome,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Prolonged bleeding,0.4475
+Vascular Ehlers-Danlos syndrome,S,N,,Migraine,Nervous,Headaches,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Respiratory insufficiency,Respiratory,Shortness of breath,0.545
+Vascular Ehlers-Danlos syndrome,S,N,,Hemoptysis,Respiratory,Coughing up blood,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Respiratory,Pneumothorax,Respiratory,Collapsed lung,0.895
+Vascular Ehlers-Danlos syndrome,F,N,,Abnormal intestine morphology,Digestive,Abnormal intestine,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Vertigo,Ear,Vertigo,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Transient ischemic attack,Nervous,Mini-stroke,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Abnormality of cardiovascular system morphology,Cardiovascular,Abnormality of cardiovascular system morphology,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Vascular dilatation,Cardiovascular,Aneurysm,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Varicose veins,Cardiovascular,Varicose veins,0.545
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Arteriovenous fistulas of celiac and mesenteric vessels,Cardiovascular,Arteriovenous fistulas of celiac and mesenteric vessels,0.545
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Aortic dissection,Cardiovascular,Aortic dissection,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,"High, narrow palate",Head and neck,Narrow high-arched roof of mouth,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Osteoarthritis,Skeletal,Osteoarthritis,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Easy fractures,Osteolysis,Skeletal,Osteolysis: Breakdown of bone,0.17
+Vascular Ehlers-Danlos syndrome,P,N,,Easy fractures,Easy fractures,Easy fractures,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Hypokalemia,Metabolism/Laboratory abnormality,Potassium defficiency,0.895
+Vascular Ehlers-Danlos syndrome,D,N,,Short stature,Growth,Short stature,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Reduced consciousness/confusion,Nervous,Reduced consciousness/confusion,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Pulmonary artery aneurysm,Cardiovascular,Pulmonary artery aneurysm,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Aortic aneurysm,Cardiovascular,Aortic aneurysm,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Arteriovenous fistula,Cardiovascular,Arteriovenous fistula,0.545
+Vascular Ehlers-Danlos syndrome,F,N,,Dilatation of the ascending aorta,Cardiovascular,Sudden artery burst,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Gastrointestinal infarctions,Digestive,Gastrointestinal infarctions,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Arterial dissection,Cardiovascular,Sudden severe chest pain,0.545
+Vascular Ehlers-Danlos syndrome,S,N,,Joint hyperflexibility,Skeletal,Joint hyperflexibility,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Premature loss of primary teeth,Head and neck,Premature loss of baby teeth,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Excessive wrinkled skin,Skin Hair and Nails,Excessive wrinkled skin,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Hypoplastic lacrimal duct,Head and neck,Underdeveloped tear duct,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Aplasia/Hypoplasia of the earlobes,Ear,Absent/small earlobes,0.895
+Vascular Ehlers-Danlos syndrome,F,N,,Aplasia/Hypoplasia of the abdominal wall musculature,Digestive,Absent/small abdominal wall muscles,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Sleep apnea,Respiratory,Sleep apnea,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Dermal translucency,Skin Hair and Nails,Translucent skin,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Abnormality of hair texture,Skin Hair and Nails,Abormal hair texture,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Internal hemorrhage,Cardiovascular,Internal hemorrhage,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Macule,Skin Hair and Nails,Dark brown spot,0.895
+Vascular Ehlers-Danlos syndrome,S,N,,Cognitive impairment,Nervous,Not thinking as clear as I used to,0.895
+Vascular Ehlers-Danlos syndrome,F,N,,Arterial stenosis,Cardiovascular,Narrowing of an artery,0.17
+Vascular Ehlers-Danlos syndrome,S,N,,Telangiectasia of the skin,Cardiovascular,Spider veins,0.545
+Vascular Ehlers-Danlos syndrome,S,N,,Cystocele,Genitourinary,Lump down below,0.17
+Vascular Ehlers-Danlos syndrome,F,N,,Uterine rupture,Genitourinary,Uterine rupture,0.17
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Peripheral arteriovenous fistula,Cardiovascular,Peripheral arteriovenous fistula,0.895
+Vascular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Renovascular hypertension,Cardiovascular,Hypertension due to renal artery hyperplasia,0.17
+Vascular Ehlers-Danlos syndrome,D,N,,Aplasia/Hypoplasia of the eyebrow,Head and neck,Missing/small eyebrows,0.895
+Vascular Ehlers-Danlos syndrome,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Vascular Ehlers-Danlos syndrome,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Vascular Ehlers-Danlos syndrome,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Vascular Ehlers-Danlos syndrome,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Vascular Ehlers-Danlos syndrome,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Vascular Ehlers-Danlos syndrome,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Vascular Ehlers-Danlos syndrome,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.895
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Rheumatoid factor positive,Immunology,Rheumatoid factor positive,0.895
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Polyarticular arthritis,Skeletal,Polyarticular arthritis,0.895
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Limitation of joint mobility,Skeletal,Limitation of joint mobility,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Joint swelling,Metabolism/Laboratory abnormality,Joint swelling,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Abnormality of limb bone morphology,Limbs,Abnormal limb bone,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Elevated erythrocyte sedimentation rate,Metabolism/Laboratory abnormality,Elevated erythrocyte sedimentation rate,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Progressive joint destruction,Skeletal,Progressive joint destruction,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Abnormality of epiphysis morphology,Skeletal,Abnormal shape of end part of bone,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Interphalangeal joint erosions,Limbs,Interphalangeal joint erosions,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Elevated C-reactive protein level,Metabolism/Laboratory abnormality,Elevated C-reactive protein level,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Abnormal serum interleukin level,Immunology,Abnormal serum interleukin level,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Symmetric polyarthritis,Skeletal,Symmetric polyarthritis,0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Synovitis,Skeletal,Synovitis (Inflamed joint lining),0.545
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,Y,Skeletal,Osteopenia,Skeletal,Osteopenia: Decreased bone density,0.17
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,F,N,,Reduced bone mineral density,Skeletal,Recurrent fractures,0.17
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,S,N,,Premature epimetaphyseal fusion,Skeletal,Premature epimetaphyseal fusion,0.17
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,D,N,,Asymmetric growth,Growth,Asymmetric growth,0.17
+Chronic myeloid leukemia,R,N,,Myeloproliferative disorder,Neoplasm,Myeloproliferative disorder (leukemia),1
+Chronic myeloid leukemia,F,N,,Splenomegaly,Digestive,Englarged spleen,0.545
+Chronic myeloid leukemia,F,N,,Abnormality of blood and blood-forming tissues,Blood and blood-forming tissues,Abnormality of blood and blood-forming tissues,0.545
+Chronic myeloid leukemia,F,N,,Thrombocytopenia,Blood and blood-forming tissues,Low platelet count,0.545
+Chronic myeloid leukemia,F,N,,Thrombocytosis,Blood and blood-forming tissues,Thrombocytosis,0.545
+Chronic myeloid leukemia,F,N,,Abnormality of granulocytes,Immunology,Abnormal granulocytes (white blood cells),0.545
+Chronic myeloid leukemia,R,N,,Abnormality of basophils,Immunology,Abnormal basophils (type of granulocytes),0.545
+Chronic myeloid leukemia,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.545
+Chronic myeloid leukemia,F,N,,Leukocytosis,Immunology,High white blood count,0.545
+Chronic myeloid leukemia,S,N,,Poor appetite,Digestive,Poor appetite,0.545
+Chronic myeloid leukemia,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Primary erythromelalgia,F,N,,Peripheral neuropathy,Nervous,Peripheral neuropathy,0.895
+Primary erythromelalgia,S,N,,Erythema,Cardiovascular,Rash,0.895
+Primary erythromelalgia,S,N,,Pruritus,Skin Hair and Nails,Itchy skin,0.545
+Primary erythromelalgia,F,N,,Abnormality of thrombocytes,Blood and blood-forming tissues,An abnormality of blood platelets,0.17
+Primary erythromelalgia,F,N,,Leukemia,Neoplasm,Leukemia,0.17
+Primary erythromelalgia,S,N,,Hypothermia,Metabolism/Laboratory abnormality,Hypothermia,0.17
+Primary erythromelalgia,S,N,,Recurrent respiratory infections,Immunology,Recurrent respiratory infections,0.17
+Primary erythromelalgia,F,N,,Vasculitis,Cardiovascular,Vasculitis,0.17
+Familial avascular necrosis of femoral head,D,N,,Abnormality of the femoral neck or head region,Limbs,Abnormal neck or head of thigh bone,0.895
+Familial avascular necrosis of femoral head,S,N,,Groin pain,Constitutional Symptom,Groin pain,0.895
+Familial avascular necrosis of femoral head,S,N,,Short stepped shuffling gait,Nervous,Short stepped shuffling walk,0.545
+Familial avascular necrosis of femoral head,S,N,,Limited hip movement,Skeletal,Limited hip movement,0.545
+Familial avascular necrosis of femoral head,D,N,,Flattened femoral head,Limbs,Flat head of thigh bone,0.545
+Familial avascular necrosis of femoral head,F,N,,Hip osteoarthritis,Skeletal,Hip osteoarthritis,0.545
+Familial avascular necrosis of femoral head,S,N,,Hip pain,Constitutional Symptom,Hip pain,0.545
+Familial avascular necrosis of femoral head,R,N,,Impairment of activities of daily living,Constitutional Symptom,Impairment of activities of daily living,0.545
+Familial avascular necrosis of femoral head,D,N,,Lower limb asymmetry,Limbs,One leg longer than the other,0.545
+Acute monoblastic/monocytic leukemia,R,N,,Acute monocytic leukemia,Neoplasm,Acute monocytic leukemia,1
+Acute monoblastic/monocytic leukemia,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.545
+Acute monoblastic/monocytic leukemia,P,N,,Tiredness,Anemia,Tiredness,0.5
+Acute monoblastic/monocytic leukemia,P,N,,Pale,Anemia,Pale,0.5
+Acute monoblastic/monocytic leukemia,F,N,,Leukocytosis,Immunology,High white blood count,0.545
+Acute monoblastic/monocytic leukemia,S,N,,Exertional dyspnea,Respiratory,Shortness of breathing with exercise,0.545
+Acute monoblastic/monocytic leukemia,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Acute monoblastic/monocytic leukemia,F,N,,Bone marrow hypercellularity,Blood and blood-forming tissues,Bone marrow hypercellularity,0.545
+Acute monoblastic/monocytic leukemia,F,N,,Lymphocytosis,Immunology,High lymphocyte count (a type of white blood cell),0.545
+Acute monoblastic/monocytic leukemia,S,N,,Subcutaneous nodule,Skin Hair and Nails,Lump under skin,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Progressive hearing impairment,Ear,Progressive hearing impairment,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Ankle swelling,Limbs,Ankle swelling,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Weight loss,Growth,Weight loss,0.17
+Acute monoblastic/monocytic leukemia,F,Y,Anemia,Hypochromic anemia,Blood and blood-forming tissues,Hypochromic anemia,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Anorexia,Digestive,Poor appetitie and weight loss,0.17
+Acute monoblastic/monocytic leukemia,F,N,,Central hypothyroidism,Endocrine,Central hypothyroidism,0.17
+Acute monoblastic/monocytic leukemia,F,N,,Abnormality of multiple cell lineages in the bone marrow,Blood and blood-forming tissues,Abnormality of multiple cell lineages in the bone marrow,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Cervical lymphadenopathy,Cardiovascular,Swollen lymph nodes in the neck,0.17
+Acute monoblastic/monocytic leukemia,F,N,,Increased lactate dehydrogenase activity,Metabolism/Laboratory abnormality,Increased lactate dehydrogenase activity,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Oliguria,Genitourinary,Low urine output,0.17
+Acute monoblastic/monocytic leukemia,S,N,,Periorbital edema,Metabolism/Laboratory abnormality,Swelling around the eye,0.17
+Acute myelomonocytic leukemia,F,N,,Thrombocytopenia,Blood and blood-forming tissues,Low platelet count,0.895
+Acute myelomonocytic leukemia,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.895
+Acute myelomonocytic leukemia,P,N,,Tiredness,Anemia,Tiredness,0.5
+Acute myelomonocytic leukemia,P,N,,Pale,Anemia,Pale,0.5
+Acute myelomonocytic leukemia,F,N,,Leukocytosis,Immunology,High white blood count,0.895
+Acute myelomonocytic leukemia,S,N,,Pallor,Skin Hair and Nails,Pale skin,0.545
+Acute myelomonocytic leukemia,S,N,,Weight loss,Growth,Weight loss,0.545
+Acute myelomonocytic leukemia,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Easy bruising,0.2725
+Acute myelomonocytic leukemia,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Prolonged bleeding,0.2725
+Acute myelomonocytic leukemia,S,N,,Dyspnea,Respiratory,Breathing difficulties,0.545
+Acute myelomonocytic leukemia,D,N,,Abnormality of the gingiva,Head and neck,Overgrown gum,0.17
+Acute myelomonocytic leukemia,F,N,,Eosinophilia,Blood and blood-forming tissues,High blood eosinophil count,0.17
+Acute erythroid leukemia,F,Y,Pancytopenia,Pancytopenia,Blood and blood-forming tissues,Low blood cell count,0.545
+Acute erythroid leukemia,P,N,,Easy bruising,Pancytopenia,Easy bruising,0.25
+Acute erythroid leukemia,P,N,,Recurrent infections,Pancytopenia,Recurrent infections,0.25
+Acute erythroid leukemia,P,N,,Lethargy,Pancytopenia,Lethargy,0.25
+Acute erythroid leukemia,P,N,,Pale,Pancytopenia,Pale,0.25
+Acute erythroid leukemia,F,N,,Leukopenia,Immunology,Low while blood cell count,0.545
+Acute erythroid leukemia,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.545
+Acute erythroid leukemia,P,N,,Tiredness,Anemia,Tiredness,0.5
+Acute erythroid leukemia,P,N,,Pale,Anemia,Pale,0.5
+Acute erythroid leukemia,F,Y,Anemia,Refractory anemia with ringed sideroblasts,Neoplasm,Refractory anemia with ringed sideroblasts,0.545
+Acute erythroid leukemia,F,N,,Erythroid hypoplasia,Blood and blood-forming tissues,Erythroid hypoplasia,0.545
+Acute erythroid leukemia,F,N,,Abnormal proerythroblast morphology,Blood and blood-forming tissues,Abnormal proerythroblast morphology,0.545
+Acute erythroid leukemia,F,N,,Bone marrow hypercellularity,Blood and blood-forming tissues,Bone marrow hypercellularity,0.545
+Acute erythroid leukemia,F,N,,Bone marrow hypocellularity,Blood and blood-forming tissues,Bone marrow failure,0.17
+Primary myelofibrosis,F,N,,Abnormality of bone marrow cell morphology,Blood and blood-forming tissues,Bone marrow disease,0.895
+Primary myelofibrosis,S,N,,Pallor,Skin Hair and Nails,Pale skin,0.545
+Primary myelofibrosis,F,N,,Hepatosplenomegaly,Immunology,Enlarged liver and spleen,0.545
+Primary myelofibrosis,F,N,,Splenomegaly,Immunology,Englarged spleen,0.545
+Primary myelofibrosis,F,N,,Abnormality of blood and blood-forming tissues,Blood and blood-forming tissues,Abnormality of blood and blood-forming tissues,0.545
+Primary myelofibrosis,F,N,,Thrombocytopenia,Blood and blood-forming tissues,Low platelet count,0.545
+Primary myelofibrosis,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.545
+Primary myelofibrosis,P,N,,Tiredness,Anemia,Tiredness,0.5
+Primary myelofibrosis,P,N,,Pale,Anemia,Pale,0.5
+Primary myelofibrosis,F,Y,Hepatomegaly,Hepatomegaly,Digestive,Enlarged liver,0.545
+Primary myelofibrosis,P,N,,Adbominal pain,Hepatomegaly,Adbominal pain,0.5
+Primary myelofibrosis,P,N,,Adbominal pain,Hepatomegaly,Jaundice,0.5
+Primary myelofibrosis,F,N,,Abnormal megakaryocyte morphology,Blood and blood-forming tissues,Abnormal megakaryocyte morphology,0.545
+Primary myelofibrosis,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Primary myelofibrosis,R,N,,Constitutional symptom,Constitutional symptom,Constitutional symptom,0.545
+Primary myelofibrosis,S,N,,Petechiae,Cardiovascular,Rash,0.17
+Primary myelofibrosis,S,N,,Purpura,Cardiovascular,Blood spots,0.17
+Primary myelofibrosis,F,N,,Portal hypertension,Cardiovascular,Portal hypertension,0.17
+Primary myelofibrosis,F,Y,Pancytopenia,Pancytopenia,Blood and blood-forming tissues,Low blood cell count,0.17
+Primary myelofibrosis,P,N,,Easy bruising,Pancytopenia,Easy bruising,0.25
+Primary myelofibrosis,P,N,,Recurrent infections,Pancytopenia,Recurrent infections,0.25
+Primary myelofibrosis,P,N,,Lethargy,Pancytopenia,Lethargy,0.25
+Primary myelofibrosis,P,N,,Pale,Pancytopenia,Pale,0.25
+Primary myelofibrosis,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Easy bruising,0.085
+Primary myelofibrosis,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Prolonged bleeding,0.085
+Primary myelofibrosis,F,N,,Thrombocytosis,Blood and blood-forming tissues,Thrombocytosis,0.17
+Primary myelofibrosis,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.17
+Primary myelofibrosis,F,N,,Leukocytosis,Immunology,High white blood count,0.17
+Primary myelofibrosis,F,N,,Abnormal thrombosis,Blood and blood-forming tissues,Abnormal blood clot,0.17
+Primary myelofibrosis,D,N,,Extramedullary hematopoiesis,Blood and blood-forming tissues,Blood cells outside the bone marrow (postnatal),0.17
+Primary myelofibrosis,S,N,,Anorexia,Digestive,Poor appetitie and weight loss,0.17
+Primary myelofibrosis,S,N,,Lymphadenopathy,Cardiovascular,Swollen lymph nodes,0.17
+Primary myelofibrosis,S,N,,Easy fatigability,Nervous,Easily tired,0.17
+Primary myelofibrosis,F,N,,Arterial thrombosis,Blood and blood-forming tissues,Blood clot in artery,0.17
+Primary myelofibrosis,F,N,,Poikilocytosis,Blood and blood-forming tissues,Abnormally shaped red blood cells,0.17
+Primary myelofibrosis,F,N,,Venous thrombosis,Blood and blood-forming tissues,Blood clot in vein,0.17
+Primary myelofibrosis,S,N,,Low-grade fever,Metabolism/Laboratory abnormality,Mild fever,0.17
+Primary myelofibrosis,S,N,,Flank pain,Constitutional Symptom,Kidney pain,0.17
+Primary myelofibrosis,F,N,,Bone marrow hypercellularity,Blood and blood-forming tissues,Bone marrow hypercellularity,0.17
+Primary myelofibrosis,S,N,,Ecchymosis,Cardiovascular,Bruise,0.17
+Primary myelofibrosis,D,N,,Hemangioma,Neoplasm,Strawberry mark,0.025
+Primary myelofibrosis,S,N,,Cachexia,Growth,Severe weight loss wasting of muscle loss of appetite and general debility,0.025
+Primary myelofibrosis,F,N,,Hematological neoplasm,Neoplasm,Blood tumour,0.025
+Primary myelofibrosis,F,N,,Increased lactate dehydrogenase activity,Metabolism/Laboratory abnormality,Increased lactate dehydrogenase activity,0.025
+Primary myelofibrosis,F,N,,Autoimmune antibody positivity (frequency zero),Immunology,Autoimmune antibody negativity,1
+Acute promyelocytic leukemia,S,N,,Gingival bleeding,Blood and blood-forming tissues,Bleeding gums,0.545
+Acute promyelocytic leukemia,S,N,,Epistaxis,Head and neck,Frequent nosebleeds,0.545
+Acute promyelocytic leukemia,S,N,,Petechiae,Cardiovascular,Rash,0.545
+Acute promyelocytic leukemia,S,N,,Bruising susceptibility,Cardiovascular,Bruising susceptibility,0.545
+Acute promyelocytic leukemia,S,N,,Purpura,Cardiovascular,Blood spots,0.545
+Acute promyelocytic leukemia,S,N,,Muscle weakness,Musculature,Muscle weakness,0.545
+Acute promyelocytic leukemia,S,N,,Weight loss,Growth,Weight loss,0.545
+Acute promyelocytic leukemia,F,N,,Thrombocytopenia,Blood and blood-forming tissues,Low platelet count,0.545
+Acute promyelocytic leukemia,F,Y,Pancytopenia,Pancytopenia,Blood and blood-forming tissues,Low blood cell count,0.545
+Acute promyelocytic leukemia,P,N,,Easy bruising,Pancytopenia,Easy bruising,0.25
+Acute promyelocytic leukemia,P,N,,Recurrent infections,Pancytopenia,Recurrent infections,0.25
+Acute promyelocytic leukemia,P,N,,Lethargy,Pancytopenia,Lethargy,0.25
+Acute promyelocytic leukemia,P,N,,Pale,Pancytopenia,Pale,0.25
+Acute promyelocytic leukemia,F,N,,Leukopenia,Immunology,Low while blood cell count,0.545
+Acute promyelocytic leukemia,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Easy bruising,0.2725
+Acute promyelocytic leukemia,S,N,,Abnormal bleeding,Blood and blood-forming tissues,Prolonged bleeding,0.2725
+Acute promyelocytic leukemia,F,Y,Anemia,Anemia,Blood and blood-forming tissues,Anemia,0.545
+Acute promyelocytic leukemia,P,N,,Tiredness,Anemia,Tiredness,0.5
+Acute promyelocytic leukemia,P,N,,Pale,Anemia,Pale,0.5
+Acute promyelocytic leukemia,S,N,,Fever,Metabolism/Laboratory abnormality,Fever,0.545
+Acute promyelocytic leukemia,S,N,,Anorexia,Digestive,Poor appetitie and weight loss,0.545
+Acute promyelocytic leukemia,S,N,,Vertigo,Ear,Vertigo,0.545
+Acute promyelocytic leukemia,S,N,,Exertional dyspnea,Respiratory,Shortness of breathing with exercise,0.545
+Acute promyelocytic leukemia,F,N,,Disseminated intravascular coagulation,Blood and blood-forming tissues,Widespread clotting in blood vascular system,0.545
+Acute promyelocytic leukemia,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Acute promyelocytic leukemia,F,N,,Bone marrow hypercellularity,Blood and blood-forming tissues,Bone marrow hypercellularity,0.545
+Acute promyelocytic leukemia,S,N,,Chronic infection,Immunology,Chronic infection,0.545
+Acute promyelocytic leukemia,S,N,,Ecchymosis,Cardiovascular,Bruise,0.545
+Acute promyelocytic leukemia,D,N,,Gingival overgrowth,Head and neck,Gum enlargement,0.17
+Acute promyelocytic leukemia,F,N,,Neutropenia,Immunology,Low blood neutrophil (type of white blood cell) count,0.17
+Acute promyelocytic leukemia,F,N,,Leukocytosis,Immunology,High white blood count,0.17
+Acute promyelocytic leukemia,S,N,,Abdominal pain,Constitutional Symptom,Abdominal pain,0.17
+Acute promyelocytic leukemia,S,N,,Bone pain,Skeletal,Bone pain,0.17
+Acute promyelocytic leukemia,S,N,,Lymphadenopathy,Cardiovascular,Swollen lymph nodes,0.17
+Acute promyelocytic leukemia,S,N,,Stomatitis,Immunology,Inflammation of the mouth,0.17
+Acute promyelocytic leukemia,F,N,,Hypofibrinogenemia,Blood and blood-forming tissues,Low fibrinogen in the blood,0.17
+Acute promyelocytic leukemia,F,N,,Diffuse alveolar hemorrhage,Cardiovascular,Diffuse alveolar haemorrhage,0.17
+Acute promyelocytic leukemia,S,N,,Oral cavity bleeding,Head and neck,Bleeding from mouth,0.17
+Acute promyelocytic leukemia,S,N,,Alcoholism,Nervous,Alcoholism,0.17
+Acute promyelocytic leukemia,S,N,,Productive cough,Respiratory,Coughing up mucus,0.17
+Acute promyelocytic leukemia,S,N,,Hematuria,Metabolism/Laboratory abnormality,Blood in urine,0.025
+Acute promyelocytic leukemia,S,N,,Metrorrhagia,Genitourinary,Menstrual spotting,0.025
+Acute promyelocytic leukemia,S,N,,Gangrene,Constitutional Symptom,Gangrene,0.025
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Hyperextensible skin,Skin Hair and Nails,Stretchy skin,0.895
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Joint hypermobility,Skeletal,Joint hypermobility,0.895
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Mitral regurgitation,Cardiovascular,Mitral regurgitation,0.895
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Emergency presentation,Abnormal heart valve morphology,Cardiovascular,Abnormal heart valve morphology,0.895
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Inguinal hernia,Digestive,Lump down below,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Strabismus,Cranial nerve paralysis,Squint,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Ptosis,Eye,Drooping upper eyelid,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Myopia,Eye,Near sighted,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Dental crowding,Head and neck,Crowded teeth,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Pectus excavatum,Skeletal,Funnel chest,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Thin skin,Skin Hair and Nails,Thin skin,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Bruising susceptibility,Cardiovascular,Bruising susceptibility,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Soft doughy skin,Skin Hair and Nails,Soft doughy skin,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Poor wound healing,Skin Hair and Nails,Poor wound healing,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Atrophic scars,Skin Hair and Nails,Pitted scars,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Joint dislocation,Skeletal,Joint dislocation,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Aortic regurgitation,Cardiovascular,Aortic valve insufficiency,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Pes planus,Limbs,Flat feet,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Hallux valgus,Limbs,Bunion,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,F,N,,Dilatation of the ascending aorta,Cardiovascular,Sudden artery burst ,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Genu recurvatum,Limbs,Knee can bend backwards,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Genu valgum,Limbs,Knock knees,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,F,N,,Tricuspid regurgitation,Cardiovascular,Tricuspid heart valve regurgitation,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Absent phalangeal crease,Limbs,Missing skin crease on finger joint,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Hypermobility of distal interphalangeal joints,Limbs,Increased mobility of outermost joint on fingers and toes,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Long fingers,Limbs,Long fingers,0.545
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,High palate,Head and neck,High roof of mouth,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Seizure,Nervous,Seizure,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Global developmental delay,Nervous,Delayed development,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Disproportionate tall stature,Growth,Tall slim build with unusually long arms and legs,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,F,N,,Atrial septal defect,Cardiovascular,Hole in heart wall separating two upper heart chambers,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Mitral valve prolapse,Cardiovascular,Mitral valve prolapse,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Left ventricular hypertrophy,Cardiovascular,Left ventricular hypertrophy,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Calcaneovalgus deformity,Limbs,Foot and ankle bends towards the shin,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Sandal gap,Limbs,Gap between first and second toe,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Dyspnea,Respiratory,Breathing difficulties,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,"Intellectual disability, moderate",Nervous,Moderate intellectual disability,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Kyphoscoliosis,Skeletal,Kyphoscoliosis (curvature of the spine),0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Thoracolumbar scoliosis,Skeletal,Scoliosis on mid/lower back,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,D,N,,Short stature,Growth,Short stature,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,F,Y,Cardiovascular,Pulmonary insufficiency,Cardiovascular,Puolmonary heart valve insufficiency,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Severe conductive hearing impairment,Ear,Severe conductive hearing impairment,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Recurrent shoulder dislocation,Skeletal,Recurrent shoulder dislocation,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,S,N,,Tendon rupture,Skeletal,Bad sprain ,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,F,N,,Myopic astigmatism,Eye,Abnormal curving of the cornea or lens of the eye and near sightedness,0.17
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Stroke,Emergency presentation,Stroke,0.25
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Heart attack,Emergency presentation,Heart attack,0.25
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Fainting episodes,Emergency presentation,Fainting episodes,0.25
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Sespis,Emergency presentation,Sespis,0.25
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Cardiac-valvular Ehlers-Danlos syndrome,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
+Secondary non-traumatic avascular necrosis,F,Y,Skeletal,Avascular necrosis,Skeletal,Bone death due to lack of blood supply,0.895
+Secondary non-traumatic avascular necrosis,S,N,,Limitation of joint mobility,Skeletal,Limitation of joint mobility,0.545
+Secondary non-traumatic avascular necrosis,S,N,,Bone pain,Skeletal,Bone pain,0.545
+Secondary non-traumatic avascular necrosis,F,Y,,Autoimmunity,Immunology,Autoimmunity,0.545
+Secondary non-traumatic avascular necrosis,S,N,,Alcoholism,Nervous,Alcoholism,0.545
+Secondary non-traumatic avascular necrosis,F,N,,Rheumatoid arthritis,Skeletal,Rheumatoid arthritis,0.17
+Secondary non-traumatic avascular necrosis,S,N,,Difficulty walking,Nervous,Difficulty walking,0.17
+Secondary non-traumatic avascular necrosis,F,N,,Neoplasm,Neoplasm,Tumour,0.17
+Secondary non-traumatic avascular necrosis,F,N,,Systemic lupus erythematosus,Immunology,Systemic lupus erythematosus,0.17
+Secondary non-traumatic avascular necrosis,R,N,,Abnormality of connective tissue,,,0.17
+Secondary non-traumatic avascular necrosis,F,N,,Hematological neoplasm,Neoplasm,Blood tumour,0.17
+Secondary non-traumatic avascular necrosis,S,N,,Groin pain,Constitutional Symptom,Groin pain,0.17
+Secondary non-traumatic avascular necrosis,F,N,,Hypercoagulability,Blood and blood-forming tissues,Blood thickening,0.025
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Arthritis,Skeletal,Arthritis,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Joint swelling,Metabolism/Laboratory abnormality,Joint swelling,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Joint stiffness,Skeletal,Joint stiffness,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Ankle swelling,Limbs,Ankle swelling,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormality of the wrist,Skeletal,Abnormality of the wrist,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Elevated erythrocyte sedimentation rate,Metabolism/Laboratory abnormality,Elevated erythrocyte sedimentation rate,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Knee osteoarthritis,Limbs,Knee osteoarthritis,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Synovial hypertrophy,Skeletal,Synovial hypertrophy,0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Enthesitis,Connective tissue,Enthesitis (Inflammation of sharpey fibres),0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Synovitis,Skeletal,Synovitis (Inflamed joint lining),0.545
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Uveitis,Eye,Inflammation of the uveal tract,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormality of the hand,Limbs,Abnormal hands,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Flexion contracture,Skeletal,Flexed joint that cannot be straightened,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormality of the hip joint,Limbs,Abnormal hip joint,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Mild postnatal growth retardation,Growth,Limited growth after birth,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Weight loss,Growth,Weight loss,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormal metatarsal morphology,Limbs,Abnormal long bone in the foot,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Anemia,Blood and blood-forming tissues,Anemia,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Lymphadenopathy,Limbs,Swollen lymph nodes,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormality of the shoulder,Skeletal,Abnormal shoulder,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Abnormality of the cervical spine,Skeletal,Abnormal cervical spine,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Myalgia,Constitutional Symptom,Muscle pain,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Antinuclear antibody positivity,Immunology,Antinuclear antibodies,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Hip osteoarthritis,Skeletal,Hip osteoarthritis,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Abnormality of the temporomandibular joint,Head and neck,Abnormal jaw joint,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,S,N,,Low-grade fever,Metabolism/Laboratory abnormality,Mild fever,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,D,N,,Abnormality of metacarpophalangeal joint,Limbs,Abnormal knuckle,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Oligoarthritis,Skeletal,Oligoarthritis,0.17
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Iridocyclitis,Eye,Iridocyclitis,0.025
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,F,N,,Hepatosplenomegaly,Immunology,Enlarged liver and spleen,0.025
+Classical Ehlers-Danlos syndrome,S,N,,Hyperextensible skin,Skin Hair and Nails,Stretchy skin,0.895
+Classical Ehlers-Danlos syndrome,S,N,,Soft doughy skin,Skin Hair and Nails,Soft doughy skin,0.895
+Classical Ehlers-Danlos syndrome,S,N,,Fragile skin,Skin Hair and Nails,Fragile skin,0.895
+Classical Ehlers-Danlos syndrome,S,N,,Striae distensae,Skin Hair and Nails,Stretch marks,0.895
+Classical Ehlers-Danlos syndrome,S,N,,Atrophic scars,Skin Hair and Nails,Pitted scars,0.895
+Classical Ehlers-Danlos syndrome,S,N,,Generalized joint laxity,Skeletal,Hypermobility of all joints,0.895
+Classical Ehlers-Danlos syndrome,F,Y,Skeletal,Osteopenia,Skeletal,Osteopenia: Decreased bone density,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Poor wound healing,Skin Hair and Nails,Poor wound healing,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Hypotonia,Musculature,Weakness,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Muscle weakness,Musculature,Muscle weakness,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Vomiting,Digestive,Vomiting,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Nausea,Digestive,Nausea,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Gastroesophageal reflux,Digestive,Heartburn,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Muscle spasm,Musculature,Muscle cramps,0.545
+Classical Ehlers-Danlos syndrome,F,N,,Pulp stones,Head and neck,Pulp stones,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Fatigue,Constitutional Symptom,Fatigue,0.545
+Classical Ehlers-Danlos syndrome,S,N,,Chronic constipation,Digestive,Chronic constipation,0.545
+Classical Ehlers-Danlos syndrome,F,Y,Genitourinary,Bladder diverticulum,Genitourinary,Bladder diverticulum,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Inguinal hernia,Digestive,Lump down below,0.17
+Classical Ehlers-Danlos syndrome,D,N,,Uterine prolapse,Genitourinary,Sagging uterus,0.17
+Classical Ehlers-Danlos syndrome,D,N,,Epicanthus,Head and neck,Prominent eye folds,0.17
+Classical Ehlers-Danlos syndrome,F,N,,Abnormal cornea morphology,Eye,Abnormal cornea morphology,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Bruising susceptibility,Cardiovascular,Bruising susceptibility,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Acrocyanosis,Skin Hair and Nails,Persistent blue hands/feet,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Motor delay,Nervous,Motor delay,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Joint swelling,Metabolism/Laboratory abnormality,Joint swelling,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Umbilical hernia,Digestive,Lump at belly button,0.17
+Classical Ehlers-Danlos syndrome,D,N,,Premature birth,Prenatal and Birth,Premature birth,0.17
+Classical Ehlers-Danlos syndrome,F,Y,Abnormality of the foot,Abnormality of the foot,Limbs,Foot deformity,0.17
+Classical Ehlers-Danlos syndrome,P,N,,Short stature,Abnormality of the foot,Short stature,0.333333333
+Classical Ehlers-Danlos syndrome,P,N,,Foot pain,Abnormality of the foot,Foot pain,0.333333333
+Classical Ehlers-Danlos syndrome,P,N,,Abnormal gait,Abnormality of the foot,Abnormal gait,0.333333333
+Classical Ehlers-Danlos syndrome,D,N,,Talipes equinovarus,Limbs,Club feet,0.17
+Classical Ehlers-Danlos syndrome,D,N,,Pes planus,Limbs,Flat feet,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Premature rupture of membranes,Prenatal and Birth,Premature rupture of membranes in pregnancy,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Rectal prolapse,Digestive,Intestines come out of the anus,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Hiatus hernia,Connective tissue,Stomach hernia,0.17
+Classical Ehlers-Danlos syndrome,F,Y,Cardiovascular,Aortic root aneurysm,Cardiovascular,Widening of root of large artery that carries blood away from heart,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Scoliosis,Skeletal,Spine always bent to one side,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Osteoarthritis,Skeletal,Osteoarthritis,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Hip dislocation,Skeletal,Hip dislocation,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Arthralgia,Constitutional Symptom,Joint pain,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Patellar dislocation,Limbs,Dislocated kneecap,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Prolonged bleeding time,Blood and blood-forming tissues,Prolonged bleeding time,0.17
+Classical Ehlers-Danlos syndrome,F,N,,Dislocated radial head,Limbs,Elbow radial head dislocation,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Shoulder dislocation,Skeletal,Shoulder dislocation,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Incisional hernia,Connective tissue,Hernea from wound after surgery,0.17
+Classical Ehlers-Danlos syndrome,F,N,,Dilatation of the cerebral artery,Cardiovascular,Brain aneurysm,0.17
+Classical Ehlers-Danlos syndrome,F,Y,Cardiovascular,Arteriovenous fistulas of celiac and mesenteric vessels,Cardiovascular,Arteriovenous fistulas of celiac and mesenteric vessels,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Arterial dissection,Cardiovascular,Sudden severe chest pain,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Phalangeal dislocation,,Dislocated fingers/toes,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Limb pain,Skeletal,Limb pain,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Blepharochalasis,Metabolism/Laboratory abnormality,Saggy upper eyelid skin,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Dermatochalasis,Head and neck,Droopy eyelid skin,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Abnormality of the temporomandibular joint,Head and neck,Abnormal jaw joint,0.17
+Classical Ehlers-Danlos syndrome,F,N,,Arterial rupture,Cardiovascular,Breakage of an artery,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Cervical insufficiency,Genitourinary,Cervical insufficiency,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Ecchymosis,Cardiovascular,Bruise,0.17
+Classical Ehlers-Danlos syndrome,F,Y,Cardiovascular,Abnormal heart valve physiology,Cardiovascular,A functional abnormality of a cardiac valve,0.17
+Classical Ehlers-Danlos syndrome,S,N,,Orthostatic hypotension,Cardiovascular,Low blood pressure when standing,0.025
+Classical Ehlers-Danlos syndrome,F,Y,Cardiovascular,Mitral valve prolapse,Cardiovascular,Mitral valve prolapse,0.025
+Classical Ehlers-Danlos syndrome,F,Y,Cardiovascular,Mitral regurgitation,Cardiovascular,Mitral regurgitation,0.025
+Classical Ehlers-Danlos syndrome,F,N,,Tricuspid valve prolapse,Cardiovascular,Tricuspid valve prolapse,0.025
+Classical Ehlers-Danlos syndrome,S,N,,Headache,Head and neck,Headache,0.025
+Classical Ehlers-Danlos syndrome,P,N,,Chest pain,Cardiovascular,Chest pain,0.333333333
+Classical Ehlers-Danlos syndrome,P,N,,Collapse,Cardiovascular,Collapse,0.333333333
+Classical Ehlers-Danlos syndrome,P,N,,Palpitations,Cardiovascular,Palpitations,0.333333333
